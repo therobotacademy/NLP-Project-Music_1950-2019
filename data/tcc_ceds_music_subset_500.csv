@@ -1,0 +1,501 @@
+artist_name,genre,track_name,coherence_prime,diversity,novelty,LQS
+sublime,reggae,get out!,0.0,0.0,0.0,0.0
+between the buried and me,jazz,obfuscation,0.0,0.0,0.27460598945617676,0.06865149736404419
+faces,pop,sweet lady mary,0.0,0.0,0.0,0.0
+johnny cash,country,the rebel,0.0,0.0,0.627659300963084,0.156914825240771
+the neighbourhood,rock,female robbery,0.0,0.0,0.022332410017649323,0.005583102504412331
+akon,pop,i wanna love you,0.0,0.0,0.010653972625732413,0.0026634931564331033
+the wailers,reggae,no sympathy,0.0,0.0,0.11253370841344197,0.028133427103360493
+tim mcgraw,country,all we ever find,0.0,0.0,0.0,0.0
+box car racer,pop,i feel so,0.0,0.0,0.39067620038986206,0.09766905009746552
+travis scott,pop,stop trying to be god,0.0,0.0,0.329478124777476,0.082369531194369
+toby keith,country,a woman's touch,0.0,0.0,0.011329690615336091,0.0028324226538340228
+john michael montgomery,country,friends,0.0,0.0,0.0,0.0
+israel vibration,reggae,saviour in your life,0.0,0.0,0.0,0.0
+big daddy kane,hip hop,ain't no stoppin us now,0.0,0.0,0.0,0.0
+ella fitzgerald,blues,taking a chance on love,0.0,0.0,0.10080788532892862,0.025201971332232155
+george strait,country,six pack to go,0.0,0.0,0.4566344022750855,0.11415860056877138
+michael franti & spearhead,reggae,nobody cries alone,0.0,0.0,0.01710746685663858,0.004276866714159645
+breakestra,jazz,hiding,0.0,0.0,0.035443047682444245,0.008860761920611061
+whitney houston,pop,one moment in time,0.0,0.0,0.0,0.0
+willie nelson,country,hero,0.0,0.0,0.2291617194811503,0.057290429870287575
+j. roddy walston & the business,blues,blade of truth,0.0,0.0,1.0,0.25
+john mayer,pop,the heart of life,0.0,0.0,0.0,0.0
+shovels & rope,blues,the air that i breathe,0.0,0.0,0.271572212378184,0.067893053094546
+uncle kracker,country,rescue,0.0,0.0,0.0,0.0
+mike zito,blues,gone to texas,0.0,0.0,0.02618356545766194,0.006545891364415485
+whitney houston,pop,greatest love of all,0.0,0.0,0.09392285346984863,0.023480713367462158
+johnny cash,country,seasons of my heart,0.0,0.0,0.0439846913019816,0.0109961728254954
+george benson,jazz,stephanie,0.0,0.0,0.0,0.0
+dolly parton,country,when i'm gone,0.0,0.0,0.11715376377105713,0.029288440942764282
+nina simone,blues,tomorrow is my turn,0.0,0.0,0.10007335742314656,0.02501833935578664
+loretta lynn,country,if i could hear my mother pray again,0.0,0.0,0.20779603719711304,0.05194900929927826
+gang of four,pop,guns before butter,0.0,0.0,0.47657563289006555,0.11914390822251639
+albert collins,blues,get to gettin',0.0,0.0,0.29929840564727783,0.07482460141181946
+kid loco,jazz,relaxin' with cherry,0.0,0.0,0.7846530675888063,0.19616326689720157
+foo fighters,rock,up in arms,0.0,0.0,0.018886367479960114,0.004721591869990029
+phosphorescent,country,ride on / right on,0.0,0.0,0.10682020584742227,0.026705051461855568
+the abyssinians,reggae,y mas gan,0.0,0.0,0.7458602786064149,0.18646506965160373
+between the buried and me,jazz,white walls,0.0,0.0,0.0425049066543579,0.010626226663589476
+the oh hellos,pop,hello my old heart,0.0,0.0,0.0,0.0
+milky chance,pop,down by the river,0.0,0.0,0.0587245225906372,0.0146811306476593
+styles p,hip hop,rude boy hip hop (feat. raheem devaughn),0.0,0.0,0.0,0.0
+mindless self indulgence,rock,shut me up,0.0,0.0,0.3171111543973287,0.07927778859933217
+black label society,rock,the blessed hellride,0.0,0.0,0.3902921477953593,0.09757303694883983
+guy clark,country,the last gunfighter ballad,0.0,0.0,0.0,0.0
+they might be giants,pop,mickey mouse clubhouse theme,0.0,0.0,0.6676690181096395,0.16691725452740988
+staind,rock,all i want,0.0,0.0,0.041591167449951165,0.010397791862487791
+breaking benjamin,pop,what lies beneath,0.0,0.0,0.0,0.0
+television,pop,marquee moon,0.0,0.0,0.12473924954732259,0.031184812386830647
+waylon jennings,country,sweet dream woman,0.0,0.0,0.0025157531102498283,0.0006289382775624571
+ella fitzgerald,blues,dream a little dream of me,0.0,0.0,0.20457500219345093,0.05114375054836273
+george strait,country,marina del rey,0.0,0.0,0.0,0.0
+tony williams,jazz,beyond games,0.0,0.0,0.0,0.0
+al jarreau,jazz,spain (i can recall),0.0,0.0,0.12405717372894287,0.031014293432235718
+desmond cheese,reggae,let it slide,0.0,0.0,0.16293519735336304,0.04073379933834076
+deap vally,blues,royal jelly,0.0,0.0,0.2119924028714498,0.05299810071786245
+popcaan,reggae,junction,0.0,0.0,0.4951709906260173,0.12379274765650433
+jason gray,rock,good to be alive,0.0,0.0,0.003948350747426342,0.0009870876868565855
+candlebox,pop,don't you,0.0,0.0,0.0,0.0
+johnny clarke,reggae,ride on girl,0.0,0.0,0.22992823521296182,0.057482058803240456
+kaleo,rock,broken bones,0.0,0.0,0.022684872150421136,0.005671218037605284
+pacific dub,reggae,don't tell me,0.0,0.0,0.0,0.0
+"royce da 5'9""",hip hop,bad boy (feat. jungle rock jr.),0.0,0.0,0.0,0.0
+rich the kid,pop,new freezer (feat. kendrick lamar),0.0,0.0,0.16433868805567423,0.041084672013918556
+the fleetwoods,blues,little miss sad one,0.0,0.0,0.04431221882502237,0.011078054706255593
+the ventures,rock,mexico,0.0,0.0,0.0,0.0
+john denver,rock,for baby (for bobbie),0.0,0.0,0.11481070518493652,0.02870267629623413
+marty robbins,country,blue sand,0.0,0.0,0.5066566069920858,0.12666415174802145
+john lee hooker,blues,shake it baby,0.0,0.0,0.2933887044588725,0.07334717611471812
+lester flatt,country,when papa played the dobro,0.0,0.0,0.34384721517562866,0.08596180379390717
+elvis presley,rock,such a night,0.0,0.0,0.22480461994806925,0.05620115498701731
+lefty frizzell,country,making believe,0.0,0.0,0.0,0.0
+blind boy fuller,blues,i crave my pig meat,0.0,0.0,0.9213249782721202,0.23033124456803006
+fruit bats,pop,when u love somebody,0.0,0.0,0.16533090670903525,0.04133272667725881
+carly simon,pop,legend in your own time,0.0,0.0,0.13096147775650024,0.03274036943912506
+damu the fudgemunk,jazz,same beat,0.0,0.0,0.0008191068967183339,0.00020477672417958348
+waylon jennings,country,precious memories,0.0,0.0,0.6085679332415264,0.1521419833103816
+e-40,hip hop,yay area,0.0,0.0,0.02961172660191853,0.007402931650479633
+echo & the bunnymen,pop,the cutter,0.0,0.0,0.3847682873408,0.0961920718352
+queens of the stone age,blues,fortress,0.0,0.0,0.22896005709966025,0.05724001427491506
+mad season,blues,river of deceit,0.0,0.0,0.299670934677124,0.074917733669281
+xtc,pop,ballad of peter pumpkinhead,0.0,0.0,0.5200261274973552,0.1300065318743388
+waylon jennings,country,shutting out the light,0.0,0.0,0.0,0.0
+wire,pop,sand in my joints,0.0,0.0,0.4248027404149374,0.10620068510373434
+collin raye,country,all my roads,0.0,0.0,0.0,0.0
+tommy castro,blues,lucky in love,0.0,0.0,0.0,0.0
+dead moon,blues,can't help falling in love,0.0,0.0,0.01779073476791381,0.004447683691978453
+gregg allman,blues,going going gone,0.0,0.0,0.19776427745819092,0.04944106936454773
+"clarence ""gatemouth"" brown",blues,dollar got the blues,0.0,0.0,0.42939259608586633,0.10734814902146658
+cross canadian ragweed,country,highway 377,0.0,0.0,0.057695547739664704,0.014423886934916176
+soulive,jazz,in my life,0.0,0.0,0.0,0.0
+ray price,country,across the wide missouri,0.0,0.0,0.24732027451197305,0.061830068627993263
+eddie money,pop,take a little bit,0.0,0.0,0.38206471999486286,0.09551617999871571
+between the buried and me,jazz,prequel to the sequel,0.0,0.0,0.07097158829371134,0.017742897073427834
+beth hart,blues,damn your eyes,0.0,0.0,0.0831118623415629,0.020777965585390724
+israel vibration,reggae,we a de raste,0.0,0.0,0.0,0.0
+jamiroquai,jazz,revolution 1993,0.0,0.0,0.0016481081644693918,0.00041202704111734795
+yaz,pop,goodbye seventies,0.0,0.0,0.18382275104522705,0.04595568776130676
+george strait,country,when did you stop loving me,0.0,0.0,0.0,0.0
+avril lavigne,pop,tomorrow,0.0,0.0,0.20704621076583862,0.051761552691459656
+the mavericks,country,foolish heart,0.0,0.0,0.0,0.0
+ricky van shelton,country,let me live with love (and die with you),0.0,0.0,0.0,0.0
+frank zappa,jazz,rdnzl,0.0,0.0,0.584442953268687,0.14611073831717175
+the offspring,pop,feelings,0.0,0.0,0.21683120727539062,0.054207801818847656
+proleter,jazz,it don't mean a thing,0.0,0.0,0.39159401257832843,0.09789850314458211
+bullet for my valentine,pop,tears don't fall,0.0,0.0,0.0,0.0
+the white stripes,blues,slicker drips,0.0,0.0,0.2837493419647217,0.07093733549118042
+"crosby, stills & nash",country,house of broken dreams,0.0,0.0,0.0,0.0
+yes,jazz,siberia,0.0,0.0,0.0,0.0
+onerepublic,pop,i lived,0.0,0.0,0.0708773136138916,0.0177193284034729
+louis armstrong,jazz,your cheatin' heart,0.0,0.0,0.0,0.0
+chick corea,jazz,spain,0.0,0.0,0.1191981037457784,0.0297995259364446
+beck,pop,loser,0.0,0.0,0.19637648264567056,0.04909412066141764
+cyndi lauper,pop,my first night without you,0.0,0.0,0.0527429978052775,0.013185749451319374
+wipers,blues,the lonely one,0.0,0.0,0.1713735262552897,0.042843381563822426
+shania twain,pop,the woman in me (needs the man in you),0.0,0.0,0.08012894789377847,0.02003223697344462
+a r i z o n a,rock,let me touch your fire,0.0,0.0,0.0,0.0
+amerie,pop,why don't we fall in love,0.0,0.0,0.0,0.0
+voxtrot,pop,the start of something,0.0,0.0,0.0,0.0
+joe bonamassa,blues,you better watch yourself,0.0,0.0,0.380959947903951,0.09523998697598775
+the undertones,pop,here comes the summer,0.0,0.0,0.2821654478708903,0.07054136196772258
+lady saw,reggae,gal no worry,0.0,0.0,0.10716273387273152,0.02679068346818288
+mujo,jazz,nostalgia,0.0,0.0,0.09502563873926798,0.023756409684816994
+little texas,country,just one more night,0.0,0.0,0.0,0.0
+the heavy,blues,what makes a good man?,0.0,0.0,0.03255877892176309,0.008139694730440773
+billy bragg,country,one by one,0.0,0.0,0.0,0.0
+toni braxton,pop,how many ways,0.0,0.0,0.410293181737264,0.102573295434316
+simple minds,pop,belfast child,0.0,0.0,0.0649453600247701,0.016236340006192524
+bonnie raitt,blues,i gave my love a candle,0.0,0.0,0.1956856648127238,0.04892141620318095
+corey smith,country,drinkin' again,0.0,0.0,0.0,0.0
+julian dash,jazz,blue and sentimental,0.0,0.0,0.17652724186579385,0.044131810466448464
+al jarreau,jazz,burst in with the dawn,0.0,0.0,0.1773348848025004,0.0443337212006251
+little river band,country,listen to your heart,0.0,0.0,0.045486430327097566,0.011371607581774391
+reba mcentire,country,take me back,0.0,0.0,0.0,0.0
+the black crowes,blues,what is home,0.0,0.0,0.12277249495188394,0.030693123737970986
+don gibson,country,foggy river,0.0,0.0,0.20715796947479248,0.05178949236869812
+tracy lawrence,country,i know that hurt by heart,0.0,0.0,0.0,0.0
+leann rimes,country,the heart never forgets,0.0,0.0,0.0,0.0
+the turtles,pop,makin' my mind up,0.0,0.0,0.1782864729563395,0.04457161823908488
+aerosmith,rock,angel,0.0,0.0,0.0,0.0
+beth hart,blues,mama this one's for you,0.0,0.0,0.0,0.0
+my morning jacket,rock,wordless chorus,0.0,0.0,0.0,0.0
+judy garland,jazz,you go to my head,0.0,0.0,0.1924444635709127,0.04811111589272817
+bushman,reggae,your love,0.0,0.0,0.20501846075057983,0.05125461518764496
+kid ink,pop,money and the power,0.0,0.0,0.0,0.0
+shrub,reggae,herbivore,0.0,0.0,0.15690449873606363,0.03922612468401591
+twenty one pilots,rock,fake you out,0.0,0.0,0.01677199204762776,0.00419299801190694
+bo carter,blues,warm my weiner,0.0,0.0,0.423043708006541,0.10576092700163525
+ella fitzgerald,blues,so in love,0.0,0.0,0.01744651794433593,0.004361629486083983
+ed sheeran,pop,the a team,0.0,0.0,0.06159100929896036,0.01539775232474009
+giant panda guerilla dub squad,reggae,missing you more,0.0,0.0,0.6201480229695638,0.15503700574239096
+john brown's body,reggae,push some air,0.0,0.0,0.0,0.0
+singers and players,reggae,follower,0.0,0.0,0.1915250619252523,0.04788126548131307
+widespread panic,blues,airplane,0.0,0.0,0.06354673703511556,0.01588668425877889
+ambrosia,country,endings,0.0,0.0,0.0,0.0
+christafari,reggae,can't stop,0.0,0.0,0.27427826325098675,0.06856956581274669
+otherwise,rock,soldiers,0.0,0.0,0.1875807245572408,0.0468951811393102
+pj sin suela,reggae,lamento borincano,0.0,0.0,0.0,0.0
+misfits,rock,dig up her bones,0.0,0.0,0.11976871887842813,0.029942179719607033
+my chemical romance,pop,thank you for the venom,0.0,0.0,0.07527087132136026,0.018817717830340065
+august alsina,pop,kissin' on my tattoos,0.0,0.0,0.18156532446543375,0.04539133111635844
+conway twitty,country,fit to be tied down,0.0,0.0,0.029062966505686433,0.007265741626421608
+kathy mattea,country,life as we knew it,0.0,0.0,0.0,0.0
+tommy bolin,blues,lotus,0.0,0.0,0.018410325050353997,0.004602581262588499
+thin lizzy,blues,having a good time,0.0,0.0,0.22936338186264038,0.057340845465660095
+roxanne shante,hip hop,roxanne's revenge (re-recorded),0.0,0.0,0.0,0.0
+the sound,pop,heartland,0.0,0.0,0.708912601073583,0.17722815026839575
+the platters,pop,i give you my word,0.0,0.0,0.07730209827423096,0.01932552456855774
+wire,blues,indirect enquiries,0.0,0.0,1.0,0.25
+j.j. cale,blues,starbound,0.0,0.0,0.2727630138397217,0.06819075345993042
+skalpel,jazz,sculpture,0.0,0.0,0.053994894027709954,0.013498723506927488
+lee brice,country,life off my years,0.0,0.0,0.15084628264109293,0.03771157066027323
+sister rosetta tharpe,blues,jericho,0.0,0.0,0.9655072689056398,0.24137681722640994
+stevie nicks,rock,rhiannon,0.0,0.0,0.030480961004892976,0.007620240251223244
+dolly parton,country,i wanna fall in love,0.0,0.0,0.025365889072418206,0.0063414722681045515
+gregory isaacs,reggae,black liberation struggle,0.0,0.0,0.2888972957928975,0.07222432394822438
+sarah vaughan,jazz,easy living,0.0,0.0,0.17504735787709555,0.04376183946927389
+nai palm,jazz,atoll,0.0,0.0,0.018999715646107983,0.004749928911526996
+shy glizzy,pop,white girl,0.0,0.0,0.12021386623382568,0.03005346655845642
+bobby darin,jazz,you're the reason i'm living,0.0,0.0,0.004817883173624665,0.0012044707934061663
+pulp,rock,babies,0.0,0.0,0.0,0.0
+david allan coe,country,i'm gonna hurt her on the radio,0.0,0.0,0.2769479552904765,0.06923698882261912
+the clash,rock,white riot,0.0,0.0,0.7900095880031587,0.19750239700078967
+the downtown fiction,pop,i just wanna run,0.0,0.0,0.1786546309789022,0.04466365774472555
+elvis presley,rock,don't cry daddy,0.0,0.0,0.08563840389251709,0.021409600973129272
+chris smither,country,no love today,0.0,0.0,0.09705020984013875,0.024262552460034687
+moka only,jazz,more soup,0.0,0.0,0.0,0.0
+professor longhair,blues,mess around,0.0,0.0,0.7928079764048259,0.19820199410120648
+tears for fears,pop,break it down again,0.0,0.0,0.004984378814697257,0.0012460947036743142
+eric b. & rakim,hip hop,don't sweat the technique,0.0,0.0,0.26656532287597656,0.06664133071899414
+dave matthews band,pop,stay (wasting time),0.0,0.0,0.08741889397303262,0.021854723493258156
+billy joel,rock,leave a tender moment alone,0.0,0.0,0.17504437764485678,0.043761094411214195
+the 1975,rock,i like america & america likes me,0.0,0.0,0.27955108880996704,0.06988777220249176
+richie spice,reggae,open the door,0.0,0.0,0.5538785854975383,0.13846964637438458
+the yardbirds,blues,heartfull of soul,0.0,0.0,0.0,0.0
+banes world,pop,you say i'm in love,0.0,0.0,0.032283802827199296,0.008070950706799824
+supaman,hip hop,clap ta dis,0.0,0.0,0.07029130061467488,0.01757282515366872
+andy grammer,pop,back home,0.0,0.0,0.09232077995936075,0.023080194989840187
+little willie john,blues,"love, life and money",0.0,0.0,0.29886051019032794,0.07471512754758199
+robben ford,blues,freedom,0.0,0.0,0.1356912056605021,0.03392280141512553
+the movement,reggae,the moon and back,0.0,0.0,0.2502175569534302,0.06255438923835754
+emmylou harris,pop,together again,0.0,0.0,0.015690267086029046,0.0039225667715072614
+eddie money,pop,endless nights,0.0,0.0,0.2783499558766683,0.06958748896916707
+lata mangeshkar,pop,sitaron ki mehfil saji,0.0,0.0,0.1463428537050883,0.03658571342627207
+willie nelson,country,the pilgrim: chapter 33,0.0,0.0,0.0,0.0
+the cinematic orchestra,jazz,burn out,0.0,0.0,0.1463525891304016,0.0365881472826004
+cage the elephant,blues,what i'm becoming,0.0,0.0,0.04029774665832519,0.010074436664581297
+patty loveless,country,don't toss us away,0.0,0.0,0.14682366450627646,0.036705916126569114
+william basinski,jazz,dlp 1.1,0.0,0.0,0.09883219003677368,0.02470804750919342
+mudvayne,rock,internal primates forever,0.0,0.0,0.0,0.0
+falling in reverse,pop,game over,0.0,0.0,0.014913221200307202,0.0037283053000768005
+the waterboys,pop,a girl called johnny,0.0,0.0,0.0,0.0
+queen,rock,'39,0.0,0.0,0.0,0.0
+the wood brothers,blues,sky high,0.0,0.0,0.5091117223103842,0.12727793057759604
+kip moore,country,come and get it,0.0,0.0,0.025936504205067944,0.006484126051266986
+zona ganjah,reggae,seguiré avanzando,0.0,0.0,0.19453638792037964,0.04863409698009491
+albert collins,blues,iceman,0.0,0.0,0.17612053950627646,0.044030134876569114
+yes,jazz,the gates of delirium,0.0,0.0,0.0,0.0
+guru's jazzmatazz,jazz,keep your worries,0.0,0.0,0.0,0.0
+tedeschi trucks band,blues,learn how to love,0.0,0.0,0.14756564299265543,0.03689141074816386
+joyner lucas,pop,i love,0.0,0.0,0.0,0.0
+željko bebek,pop,sinoć sam pola kafane popio,0.0,0.0,0.14635149637858072,0.03658787409464518
+bob marley & the wailers,reggae,do you remember,0.0,0.0,0.5898541609446208,0.1474635402361552
+fiona apple,pop,pale september,0.0,0.0,0.19368433952331543,0.04842108488082886
+meghan trainor,pop,all about that bass,0.0,0.0,0.7670462528864543,0.19176156322161358
+jr. walker & the all stars,pop,(i'm a) road runner,0.0,0.0,0.08089715242385864,0.02022428810596466
+sammy kershaw,country,what might have been,0.0,0.0,0.06291363636652628,0.01572840909163157
+widespread panic,blues,you'll be fine,0.0,0.0,0.0,0.0
+dua lipa,pop,kiss and make up,0.0,0.0,0.4283932248751323,0.10709830621878308
+henry paul band,rock,grey ghost,0.0,0.0,0.12823973099390665,0.03205993274847666
+vic mensa,hip hop,omg,0.0,0.0,0.19787673155466715,0.049469182888666786
+the abyssinians,reggae,dem a come,0.0,0.0,0.19086454312006632,0.04771613578001658
+connie francis,pop,return to me,0.0,0.0,0.15763564904530844,0.03940891226132711
+jackie wilson,pop,danny boy,0.0,0.0,0.6032381852467855,0.15080954631169638
+francesca battistelli,pop,he knows my name,0.0,0.0,0.0,0.0
+foreigner,rock,heart turns to stone,0.0,0.0,0.019587616125742585,0.004896904031435646
+the doobie brothers,country,pursuit on 53rd st.,0.0,0.0,0.5084861715634664,0.1271215428908666
+frankie laine,pop,remember me (the girl in the wood),0.0,0.0,0.016149322191874177,0.004037330547968544
+perry como,pop,hot diggity (dog ziggity boom),0.0,0.0,0.6749886174996694,0.16874715437491736
+queen,rock,leaving home ain't easy,0.0,0.0,0.011626819769541413,0.0029067049423853533
+jethro tull,blues,we used to know,0.0,0.0,0.0,0.0
+terror squad,hip hop,"rudeboy salute (feat. buju banton, big pun and fat joe)",0.0,0.0,0.14053706328074136,0.03513426582018534
+lil wayne,hip hop,this what i call her,0.0,0.0,0.0,0.0
+michael jackson,pop,remember the time,0.0,0.0,0.2943596641222636,0.0735899160305659
+stone sour,rock,gone sovereign,0.0,0.0,0.23847335577011108,0.05961833894252777
+nickodemus,jazz,mystery of life,0.0,0.0,0.35433773199717206,0.08858443299929301
+mike pinto,reggae,a thousand years ago,0.0,0.0,0.0036236047744750885,0.0009059011936187721
+michael franks,jazz,wonderland,0.0,0.0,0.5015207727750143,0.12538019319375357
+berlin,pop,the metro,0.0,0.0,0.05048100153605142,0.012620250384012856
+relient k,rock,pressing on,0.0,0.0,0.10509127378463745,0.026272818446159363
+roger miller,country,but i love you more,0.0,0.0,0.10018471876780191,0.025046179691950478
+new edition,pop,mr. telephone man,0.0,0.0,0.30440711975097656,0.07610177993774414
+"emerson, lake & palmer",jazz,the sage,0.0,0.0,0.016508340835571282,0.0041270852088928205
+louis armstrong,jazz,in the shade of the old apple tree,0.0,0.0,0.15302522977193198,0.038256307442982994
+etana,reggae,richest girl,0.0,0.0,0.23783965905507407,0.059459914763768516
+giant panda guerilla dub squad,reggae,move,0.0,0.0,0.37999316056569415,0.09499829014142354
+shelley fabares,pop,"hi-lilli, hi-lo",0.0,0.0,0.7257597545782726,0.18143993864456814
+bob dylan,pop,queen jane approximately,0.0,0.0,0.2145338455835978,0.05363346139589945
+the impressions,blues,a long time ago,0.0,0.0,0.0,0.0
+gary numan,pop,conversation,0.0,0.0,0.7552734414736431,0.18881836036841076
+ministry,rock,just one fix,0.0,0.0,0.08714163303375244,0.02178540825843811
+george harrison,rock,behind that locked door,0.0,0.0,0.0,0.0
+ray charles,blues,if i could,0.0,0.0,0.0,0.0
+journey,rock,why can't this night go on forever,0.0,0.0,0.0,0.0
+the neighbourhood,rock,middle of somewhere,0.0,0.0,0.0008070866266886301,0.00020177165667215752
+jeff lorber,jazz,chopsticks,0.0,0.0,0.0,0.0
+radiohead,rock,go to sleep,0.0,0.0,0.2080022692680359,0.05200056731700897
+the spits,blues,tonight,0.0,0.0,0.17964933315912882,0.044912333289782204
+upchurch,country,dukes of hazzard,0.0,0.0,0.48683766523996996,0.12170941630999249
+cyrille aimee,jazz,loving you,0.0,0.0,0.28523608048756915,0.07130902012189229
+kate bush,pop,oh to be in love,0.0,0.0,0.0,0.0
+jacki-o,hip hop,i got yo boyfriend,0.0,0.0,0.0,0.0
+bad suns,rock,transpose,0.0,0.0,0.04763140281041463,0.011907850702603657
+tori kelly,pop,paper hearts,0.0,0.0,0.0,0.0
+lonestar,country,all the way,0.0,0.0,0.0,0.0
+al stewart,pop,lord grenville,0.0,0.0,0.0,0.0
+mkto,rock,thank you,0.0,0.0,0.015773415565490716,0.003943353891372679
+deftones,rock,fireal,0.0,0.0,0.1971701184908549,0.04929252962271372
+angels & airwaves,pop,do it for me now,0.0,0.0,0.09141488869984944,0.02285372217496236
+glee cast,pop,if i die young (glee cast version),0.0,0.0,0.15921765565872192,0.03980441391468048
+ashford & simpson,jazz,count your blessings,0.0,0.0,0.06852352619171143,0.017130881547927856
+brian hyland,pop,gypsy woman,0.0,0.0,0.11699610948562622,0.029249027371406555
+frank zappa,jazz,treacherous cretins,0.0,0.0,0.8688488006591798,0.21721220016479495
+willie nelson,country,somebody pick up my pieces,0.0,0.0,0.07756058375040689,0.019390145937601723
+prong,rock,"snap your fingers, snap your neck",0.0,0.0,0.4821538329124451,0.12053845822811128
+yazz,pop,the only way is up,0.0,0.0,0.3081325093905131,0.07703312734762828
+molly hatchet,country,what does it matter,0.0,0.0,0.0,0.0
+badfinger,blues,sail away,0.0,0.0,0.05920255184173583,0.014800637960433958
+stan getz,jazz,the peacocks,0.0,0.0,0.0,0.0
+the velvet underground,rock,i'm sticking with you,0.0,0.0,0.34045342604319256,0.08511335651079814
+tesla,rock,the way it is,0.0,0.0,0.3237278660138448,0.0809319665034612
+little eva,pop,sharing you,0.0,0.0,0.04115277528762817,0.010288193821907042
+the ready set,pop,killer,0.0,0.0,0.03268762429555257,0.008171906073888142
+rancid,pop,maxwell murder,0.0,0.0,0.273102064927419,0.06827551623185475
+emmylou harris,country,pledging my love,0.0,0.0,0.0774083932240804,0.0193520983060201
+eric clapton,blues,when you got a good friend,0.0,0.0,0.032220721244812005,0.008055180311203001
+delicatessen,jazz,in a mellow tone,0.0,0.0,0.7084535956382753,0.17711339890956881
+pete rock & c.l. smooth,jazz,get on the mic,0.0,0.0,0.0,0.0
+eric clapton,blues,crying eyes (feat. christine lakeland and derek trucks),0.0,0.0,0.58998707930247,0.1474967698256175
+cream,blues,sleepy time time,0.0,0.0,0.503149171670278,0.1257872929175695
+martha reeves & the vandellas,pop,jimmy mack,0.0,0.0,0.5153760711352031,0.12884401778380078
+don drummond,reggae,coolie boy,0.0,0.0,0.12457444270451863,0.031143610676129658
+roberta flack,jazz,river,0.0,0.0,0.5437302986780803,0.13593257466952008
+live,pop,selling the drama,0.0,0.0,0.10004792610804239,0.025011981527010597
+dean martin,jazz,rock-a-bye your baby with a dixie melody,0.0,0.0,0.23999595642089844,0.05999898910522461
+bodyjar,rock,not the same,0.0,0.0,0.06801420450210571,0.017003551125526428
+brothers osborne,country,pawn shop,0.0,0.0,0.6047669450441997,0.15119173626104992
+typical cats,jazz,qweloquiallisms,0.0,0.0,0.00868662198384602,0.002171655495961505
+waylon jennings,country,christina,0.0,0.0,0.0,0.0
+social distortion,pop,99 to life,0.0,0.0,0.28130922714869183,0.07032730678717296
+whitney houston,pop,jesus loves me,0.0,0.0,0.3308104872703552,0.0827026218175888
+dolly parton,country,wildest dreams,0.0,0.0,0.20906700690587363,0.052266751726468406
+young the giant,pop,silvertongue,0.0,0.0,0.529379685719808,0.132344921429952
+duke ellington,jazz,flamingo,0.0,0.0,0.5344031651814779,0.13360079129536948
+x ambassadors,pop,unsteady,0.0,0.0,0.6142000754674276,0.1535500188668569
+tim mcgraw,country,here tonight,0.0,0.0,0.24725282192230225,0.06181320548057556
+boogie belgique,jazz,swing thing,0.0,0.0,0.27978285153706867,0.06994571288426717
+sheryl crow,pop,d'yer mak'er,0.0,0.0,0.14528308312098184,0.03632077078024546
+nuyorican soul,jazz,runaway,0.0,0.0,0.20573004086812338,0.051432510217030845
+fine young cannibals,pop,it's ok (it's alright),0.0,0.0,0.0,0.0
+mikey dread,reggae,time waster,0.0,0.0,0.0,0.0
+cynic,jazz,how could i,0.0,0.0,0.3452276587486267,0.08630691468715668
+ariana grande,pop,no tears left to cry,0.0,0.0,0.23363991578420004,0.05840997894605001
+willie nelson,country,go away,0.0,0.0,0.0,0.0
+josé josé,pop,vamos a darnos tiempo,0.0,0.0,0.029859483242034905,0.007464870810508726
+pete townshend,rock,let my love open the door,0.0,0.0,0.5211806694666545,0.13029516736666363
+august greene,jazz,black kennedy,0.0,0.0,0.20386729637781778,0.050966824094454445
+walk the moon,pop,tightrope,0.0,0.0,0.1726801594098409,0.04317003985246023
+dionne warwick,rock,heartbreaker,0.0,0.0,0.023008028666178376,0.005752007166544594
+phil perry,jazz,the best of me,0.0,0.0,0.0,0.0
+joe bonamassa,blues,if heartaches were nickels,0.0,0.0,0.02234413226445515,0.005586033066113788
+sumo,reggae,rollando,0.0,0.0,0.44889513651529955,0.11222378412882489
+blue mitchell,jazz,when i fall in love,0.0,0.0,0.3812367121378581,0.09530917803446452
+stevie nicks,rock,landslide,0.0,0.0,0.2030439575513204,0.0507609893878301
+kathy mattea,country,untold stories,0.0,0.0,0.03523850440979003,0.008809626102447508
+the paul butterfield blues band,blues,in my own dream,0.0,0.0,0.09530369440714517,0.023825923601786293
+the dead weather,blues,i feel love (every million miles),0.0,0.0,0.4010603229204814,0.10026508073012035
+heart,pop,secret,0.0,0.0,0.20677063862482706,0.051692659656206764
+judy garland,jazz,i got rhythm,0.0,0.0,0.2130160133043925,0.05325400332609812
+jefferson airplane,blues,don't slip away,0.0,0.0,0.0,0.0
+wendell b,blues,inside my mind,0.0,0.0,0.0,0.0
+baby washington,blues,i can't wait until i see my baby,0.0,0.0,0.0,0.0
+starset,rock,it has begun,0.0,0.0,0.07276389996210733,0.018190974990526833
+the buckinghams,pop,hey baby (they're playing our song),0.0,0.0,0.05892638365427652,0.01473159591356913
+breaking benjamin,pop,so cold,0.0,0.0,0.06642236312230428,0.01660559078057607
+dr. john,blues,mos' scocious,0.0,0.0,0.2715993324915568,0.0678998331228892
+ella fitzgerald,blues,spring is here,0.0,0.0,0.05123480161031087,0.012808700402577717
+old crow medicine show,country,my good gal,0.0,0.0,0.07643743356068929,0.01910935839017232
+steve goodman,country,go cubs go,0.0,0.0,0.9200771550337474,0.23001928875843686
+climax blues band,blues,running out of time,0.0,0.0,0.022638181845347077,0.005659545461336769
+tricky,jazz,the only way,0.0,0.0,0.0,0.0
+llorca,jazz,indigo blues,0.0,0.0,0.5090095996856691,0.12725239992141726
+al green,blues,nearer my god to thee,0.0,0.0,0.8319079279899598,0.20797698199748996
+50 cent,pop,disco inferno,0.0,0.0,0.05315476655960082,0.013288691639900206
+oasis,rock,champagne supernova,0.0,0.0,0.3545757532119751,0.08864393830299377
+todd terry,hip hop,survivor,0.0,0.0,0.019973953564961743,0.004993488391240436
+frank ocean,pop,thinkin bout you,0.0,0.0,0.15250577529271445,0.03812644382317861
+kodak black,pop,calling my spirit,0.0,0.0,0.0,0.0
+queen,rock,seven seas of rhye,0.0,0.0,0.08064264059066772,0.02016066014766693
+melody gardot,jazz,deep within the corners of my mind,0.0,0.0,0.02279712756474812,0.00569928189118703
+"bonnie ""prince"" billy",country,nomadic revery (all around),0.0,0.0,0.0,0.0
+newsboys,rock,your love never fails,0.0,0.0,0.01595213015874226,0.003988032539685565
+hollywood undead,rock,kill everyone,0.0,0.0,0.07908258835474649,0.019770647088686623
+alan jackson,country,i'd love you all over again,0.0,0.0,0.0,0.0
+beyoncé,pop,ring the alarm,0.0,0.0,0.15160594383875528,0.03790148595968882
+terry callier,jazz,900 miles,0.0,0.0,0.1413392424583435,0.035334810614585876
+cartel,pop,the fortunate,0.0,0.0,0.276302436987559,0.06907560924688975
+larkin poe,blues,fly like an eagle,0.0,0.0,0.3666774829228719,0.09166937073071797
+ray campi,rock,i didn't mean to be mean,0.0,0.0,0.04357977708180745,0.010894944270451862
+carly rae jepsen,pop,run away with me,0.0,0.0,0.032894055048624665,0.008223513762156166
+waylon jennings,country,too close to call,0.0,0.0,0.0,0.0
+the dear hunter,jazz,cascade,0.0,0.0,0.0,0.0
+ella fitzgerald,blues,do nothing till you hear from me,0.0,0.0,0.03445271650950113,0.008613179127375283
+jimmy cliff,reggae,waterfall,0.0,0.0,0.20233128468195596,0.05058282117048899
+john mayall & the bluesbreakers,blues,out of reach,0.0,0.0,0.0,0.0
+david lee roth,rock,damn good,0.0,0.0,0.07267528772354126,0.018168821930885315
+king diamond,rock,abigail,0.0,0.0,0.0,0.0
+matisyahu,reggae,what i'm fighting for,0.0,0.0,0.3101094961166382,0.07752737402915955
+tesla,rock,edison's medicine,0.0,0.0,0.1309074362119039,0.032726859052975975
+aretha franklin,blues,laughing on the outside,0.0,0.0,0.01676414410273233,0.004191036025683083
+ice-t,hip hop,high rollers,0.0,0.0,0.0,0.0
+winger,rock,hangin on,0.0,0.0,0.25272085269292194,0.06318021317323048
+linda ronstadt,country,you go to my head,0.0,0.0,0.19818935791651407,0.04954733947912852
+acoustic alchemy,jazz,make my day,0.0,0.0,0.18010282516479492,0.04502570629119873
+waylon jennings,country,just across the way,0.0,0.0,0.02070778608322143,0.005176946520805357
+hank williams,country,someday you'll call my name,0.0,0.0,0.04977150758107503,0.012442876895268757
+cab calloway,blues,boog it,0.0,0.0,1.0,0.25
+tony bennett,jazz,call me irresponsible,0.0,0.0,0.6849955419699352,0.1712488854924838
+the platters,pop,if i didn't care,0.0,0.0,0.0517778992652893,0.012944474816322325
+johnny paycheck,country,me and the i.r.s.,0.0,0.0,0.10634406407674153,0.026586016019185383
+seals and crofts,pop,it'll be all right,0.0,0.0,0.0,0.0
+doris day,jazz,the surrey with the fringe on top,0.0,0.0,0.1550368865331014,0.03875922163327535
+galactic,blues,quiet please,0.0,0.0,0.0,0.0
+red hot chili peppers,rock,the power of equality,0.0,0.0,0.024501224358876538,0.0061253060897191345
+peter green,blues,just for you,0.0,0.0,0.006973981857299796,0.001743495464324949
+jack jones,jazz,she loves me,0.0,0.0,0.017769972483317048,0.004442493120829262
+johnny lee,country,you could've heard a heart break,0.0,0.0,0.0,0.0
+andy grammer,rock,wish you pain,0.0,0.0,0.0,0.0
+chris cornell,rock,nearly forgot my broken heart,0.0,0.0,0.0,0.0
+avril lavigne,pop,losing grip,0.0,0.0,0.06399029493331909,0.015997573733329773
+phish,blues,sparkle,0.0,0.0,0.09041750431060791,0.022604376077651978
+tool,rock,sober,0.0,0.0,0.02117210626602172,0.00529302656650543
+meshuggah,jazz,combustion,0.0,0.0,0.27573708693186444,0.06893427173296611
+gregg allman,blues,little by little,0.0,0.0,0.00813110669453938,0.002032776673634845
+t. rex,blues,life is strange,0.0,0.0,0.6686377425988516,0.1671594356497129
+grouplove,pop,ways to go,0.0,0.0,0.1416493852933248,0.0354123463233312
+fall out boy,pop,i slept with someone in fall out boy and all i got was this stupid song written about me,0.0,0.0,0.5063624580701193,0.12659061451752981
+manowar,rock,hail and kill,0.0,0.0,0.15898450215657553,0.03974612553914388
+between the buried and me,jazz,"disease, injury, madness",0.0,0.0,0.033587157726287835,0.008396789431571959
+john conlee,country,before my time,0.0,0.0,0.0073275367418924875,0.0018318841854731219
+a day to remember,pop,you had me at hello,0.0,0.0,0.46982570489247644,0.11745642622311911
+etta james,blues,my dearest darling,0.0,0.0,0.28185878197352093,0.07046469549338023
+confederate railroad,country,"black label, white lies",0.0,0.0,0.004512409369150788,0.001128102342287697
+social distortion,pop,i want what i want,0.0,0.0,0.10879788796106973,0.027199471990267433
+stick figure,reggae,feelin' in the mood,0.0,0.0,0.19656731685002646,0.049141829212506614
+alexi murdoch,pop,all my days,0.0,0.0,0.013674636681874585,0.0034186591704686463
+kenny chesney,country,outta here,0.0,0.0,0.007010738054911286,0.0017526845137278216
+nipsey hussle,pop,checc me out (feat. cobby supreme & dom kennedy),0.0,0.0,0.3278976082801819,0.08197440207004547
+don gibson,country,midnight,0.0,0.0,0.23005261023839316,0.05751315255959829
+all them witches,blues,elk.blood.heart,0.0,0.0,0.19690567255020142,0.049226418137550354
+jason aldean,country,wide open,0.0,0.0,0.1079500118891398,0.02698750297228495
+touré kunda,reggae,baara,0.0,0.0,0.0,0.0
+lester flatt,country,i'll never shed another tear,0.0,0.0,0.0,0.0
+jeff beck,blues,situation,0.0,0.0,0.0,0.0
+john lee hooker,blues,cry before i go,0.0,0.0,0.051686008771260575,0.012921502192815144
+ken boothe,reggae,can't you see,0.0,0.0,0.0,0.0
+maxwell,pop,lifetime,0.0,0.0,0.23895585536956787,0.05973896384239197
+bad company,blues,fame and fortune,0.0,0.0,0.22881551583607992,0.05720387895901998
+wailing souls,reggae,thou shall not steal,0.0,0.0,0.0,0.0
+def leppard,rock,run riot,0.0,0.0,0.012904842694600415,0.0032262106736501038
+black joe lewis & the honeybears,blues,"bitch, i love you",0.0,0.0,0.0,0.0
+confederate railroad,country,time off for bad behavior,0.0,0.0,0.0,0.0
+dave brubeck,jazz,one song,0.0,0.0,0.11693739891052246,0.029234349727630615
+the byrds,pop,my back pages,0.0,0.0,0.13731513420740762,0.034328783551851906
+system of a down,rock,toxicity,0.0,0.0,0.532459060351054,0.1331147650877635
+ricky martin,pop,el ultimo adiós,0.0,0.0,0.23149842023849487,0.05787460505962372
+merle haggard,country,is this the beginning of the end?,0.0,0.0,0.0,0.0
+jethro tull,blues,slow marching band,0.0,0.0,0.0,0.0
+nina simone,blues,real real,0.0,0.0,0.5884091456731161,0.14710228641827902
+mötley crüe,rock,tonight,0.0,0.0,0.12918853759765625,0.03229713439941406
+mike love,reggae,forgive me,0.0,0.0,0.019994020462036126,0.0049985051155090315
+hank williams,country,dear john,0.0,0.0,0.2970322370529175,0.07425805926322937
+wade bowen,country,turn on the lights,0.0,0.0,0.0,0.0
+crowded house,pop,world where you live,0.0,0.0,0.13684882720311484,0.03421220680077871
+mgmt,pop,the youth,0.0,0.0,0.5409596761067709,0.13523991902669272
+the monkees,pop,take a giant step,0.0,0.0,0.0,0.0
+the fall,blues,bill is dead,0.0,0.0,0.32121185461680096,0.08030296365420024
+michael franks,jazz,when sly calls (don't touch that phone),0.0,0.0,0.07182582219441731,0.01795645554860433
+montgomery gentry,country,if a broken heart could kill,0.0,0.0,0.09283924102783203,0.023209810256958008
+john prine,country,saigon,0.0,0.0,0.596419115861257,0.14910477896531424
+quincy jones,jazz,blues in the night,0.0,0.0,0.040217876434326165,0.010054469108581541
+the beach boys,pop,hawaii,0.0,0.0,0.1656041940053304,0.0414010485013326
+dorothy,blues,philadelphia,0.0,0.0,0.0,0.0
+shakira,pop,waka waka (this time for africa) [the official 2010 fifa world cup (tm) song],0.0,0.0,0.2049029270807902,0.05122573177019755
+iration,reggae,fly with me,0.0,0.0,0.020294527212778718,0.0050736318031946795
+doug sahm,country,papa ain't salty,0.0,0.0,0.0017495354016621816,0.0004373838504155454
+the felice brothers,country,frankie's gun!,0.0,0.0,0.24126315116882324,0.06031578779220581
+bee gees,rock,lonely days,0.0,0.0,0.922509123881658,0.2306272809704145
+tammy wynette,country,crying steel guitar,0.0,0.0,0.04069828987121581,0.010174572467803953
+thriller u,reggae,i can see clearly,0.0,0.0,0.07467710971832275,0.01866927742958069
+pete josef,jazz,colour,0.0,0.0,0.24013304710388184,0.06003326177597046
+ramones,rock,the kkk took my baby away,0.0,0.0,0.24373247226079306,0.060933118065198265
+jerry garcia,blues,"hot corn, cold corn",0.0,0.0,0.9295718769232433,0.23239296923081082
+the gladiators,reggae,bumping and boring,0.0,0.0,0.0,0.0
+tim mcgraw,country,she never lets it go to her heart,0.0,0.0,0.038644909858703606,0.009661227464675902
+murphy lee,pop,wat da hook gon be,0.0,0.0,0.0,0.0
+passafire,reggae,growing up,0.0,0.0,0.047011911869049065,0.011752977967262266
+bob dylan,pop,heart of mine,0.0,0.0,0.0,0.0
+audiodub,reggae,the city,0.0,0.0,0.08316600322723389,0.02079150080680847
+jerry vale,jazz,innamorata (sweetheart),0.0,0.0,0.9684632122516633,0.24211580306291583
+pat green,country,nightmare,0.0,0.0,0.2418179710706075,0.06045449276765188
+snowy white,blues,midnight blues,0.0,0.0,0.28805796305338544,0.07201449076334636
+nicki minaj,pop,high school,0.0,0.0,0.0,0.0
+yusef lateef,jazz,the plum blossom,0.0,0.0,0.0,0.0
+logic,pop,1-800-273-8255,0.0,0.0,0.0,0.0
+jim reeves,country,where do i go from here,0.0,0.0,0.10631664594014485,0.026579161485036213
+foreigner,rock,headkknocker,0.0,0.0,0.4006762703259786,0.10016906758149464
+dean martin,jazz,is it true what they say about dixie?,0.0,0.0,0.23258501291275024,0.05814625322818756
+robert glasper experiment,jazz,cherish the day,0.0,0.0,0.3203952709833781,0.08009881774584453
+têtes raides,reggae,the mad fiddler,0.0,0.0,0.0,0.0
+swimming tapes,rock,cameos,0.0,0.0,0.1492455999056498,0.03731139997641245
+randy travis,country,open the eyes of my heart,0.0,0.0,0.25427911678949994,0.06356977919737498
+dave mason,country,"crying, waiting, hoping",0.0,0.0,0.012038687864939362,0.0030096719662348406
+shovels & rope,blues,c'mon utah!,0.0,0.0,0.0,0.0
+florida georgia line,country,black tears,0.0,0.0,0.0,0.0
+of montreal,pop,lysergic bliss,0.0,0.0,0.1385690172513326,0.03464225431283315
+the avett brothers,country,nothing short of thankful,0.0,0.0,0.07489158709843953,0.018722896774609882
+scuzz twittly,country,party like charlie sheen,0.0,0.0,0.10312700271606445,0.025781750679016113
+hours eastly,reggae,shoot me dead,0.0,0.0,0.4020081361134847,0.10050203402837117
+miranda lambert,country,there's a wall,0.0,0.0,0.0,0.0
+the roots,hip hop,75 bars (black's reconstruction),0.0,0.0,0.06503784656524658,0.016259461641311646
+the notorious b.i.g.,pop,mo money mo problems,0.0,0.0,0.0,0.0
+flamin' groovies,pop,i can't hide,0.0,0.0,0.0,0.0
+otis rush,blues,groaning the blues,0.0,0.0,0.08426680167516072,0.02106670041879018
+vance joy,rock,straight into your arms,0.0,0.0,0.7040955523649852,0.1760238880912463
+captain beyond,blues,frozen over,0.0,0.0,0.20526025692621866,0.051315064231554665
+kate bush,pop,why should i love you?,0.0,0.0,0.1767043670018514,0.04417609175046285
+the dead weather,blues,no horse,0.0,0.0,0.26218467950820923,0.06554616987705231
+the stills-young band,rock,long may you run,0.0,0.0,0.02429836988449096,0.00607459247112274
+the cars,pop,bye bye love,0.0,0.0,0.4272036155064901,0.10680090387662253
+the boomtown rats,pop,someone's looking at you,0.0,0.0,0.0,0.0
