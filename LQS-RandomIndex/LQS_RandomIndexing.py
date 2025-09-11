@@ -205,15 +205,3 @@ artist_genre_path = "./results/lqs_artist_genre_summary.csv"
 res_df.to_csv(subset_path, index=False)
 by_genre.to_csv(genre_path, index=False)
 by_artist_genre.to_csv(artist_genre_path, index=False)
-
-# Display interactive tables to the user
-'''
-!pip install caas_jupyter_tools
-
-import caas_jupyter_tools as cj
-cj.display_dataframe_to_user("LQS por canción (subset 500)", res_df)
-cj.display_dataframe_to_user("Resumen por género", by_genre)
-cj.display_dataframe_to_user("Resumen por artista y género", by_artist_genre)
-
-subset_path, genre_path, artist_genre_path
-'''

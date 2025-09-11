@@ -1,0 +1,437 @@
+artist_name,genre,LQS_mean,n
+cab calloway,blues,0.25,1
+j. roddy walston & the business,blues,0.25,1
+wire,blues,0.25,1
+jerry vale,jazz,0.24211580306291583,1
+sister rosetta tharpe,blues,0.24137681722640994,1
+jerry garcia,blues,0.23239296923081082,1
+bee gees,rock,0.2306272809704145,1
+blind boy fuller,blues,0.23033124456803006,1
+steve goodman,country,0.23001928875843686,1
+al green,blues,0.20797698199748996,1
+professor longhair,blues,0.19820199410120648,1
+the clash,rock,0.19750239700078967,1
+kid loco,jazz,0.19616326689720157,1
+meghan trainor,pop,0.19176156322161358,1
+gary numan,pop,0.18881836036841076,1
+frank zappa,jazz,0.18166146924098336,2
+shelley fabares,pop,0.18143993864456814,1
+the sound,pop,0.17722815026839575,1
+delicatessen,jazz,0.17711339890956881,1
+vance joy,rock,0.1760238880912463,1
+tony bennett,jazz,0.1712488854924838,1
+perry como,pop,0.16874715437491736,1
+t. rex,blues,0.1671594356497129,1
+they might be giants,pop,0.16691725452740988,1
+x ambassadors,pop,0.1535500188668569,1
+brothers osborne,country,0.15119173626104992,1
+jackie wilson,pop,0.15080954631169638,1
+john prine,country,0.14910477896531424,1
+bob marley & the wailers,reggae,0.1474635402361552,1
+richie spice,reggae,0.13846964637438458,1
+roberta flack,jazz,0.13593257466952008,1
+mgmt,pop,0.13523991902669272,1
+duke ellington,jazz,0.13360079129536948,1
+system of a down,rock,0.1331147650877635,1
+young the giant,pop,0.132344921429952,1
+pete townshend,rock,0.13029516736666363,1
+xtc,pop,0.1300065318743388,1
+martha reeves & the vandellas,pop,0.12884401778380078,1
+the wood brothers,blues,0.12727793057759604,1
+llorca,jazz,0.12725239992141726,1
+the doobie brothers,country,0.1271215428908666,1
+marty robbins,country,0.12666415174802145,1
+fall out boy,pop,0.12659061451752981,1
+cream,blues,0.1257872929175695,1
+giant panda guerilla dub squad,reggae,0.12501764794190726,2
+popcaan,reggae,0.12379274765650433,1
+upchurch,country,0.12170941630999249,1
+prong,rock,0.12053845822811128,1
+gang of four,pop,0.11914390822251639,1
+a day to remember,pop,0.11745642622311911,1
+the abyssinians,reggae,0.11709060271581015,2
+sumo,reggae,0.11222378412882489,1
+"clarence ""gatemouth"" brown",blues,0.10734814902146658,1
+dua lipa,pop,0.10709830621878308,1
+the cars,pop,0.10680090387662253,1
+wire,pop,0.10620068510373434,1
+bo carter,blues,0.10576092700163525,1
+toni braxton,pop,0.102573295434316,1
+hours eastly,reggae,0.10050203402837117,1
+proleter,jazz,0.09789850314458211,1
+box car racer,pop,0.09766905009746552,1
+black label society,rock,0.09757303694883983,1
+echo & the bunnymen,pop,0.0961920718352,1
+blue mitchell,jazz,0.09530917803446452,1
+larkin poe,blues,0.09166937073071797,1
+oasis,rock,0.08864393830299377,1
+nickodemus,jazz,0.08858443299929301,1
+cynic,jazz,0.08630691468715668,1
+nina simone,blues,0.08606031288703284,2
+the velvet underground,rock,0.08511335651079814,1
+johnny cash,country,0.0839554990331332,2
+the dead weather,blues,0.08290562530358633,2
+eddie money,pop,0.08255183448394139,2
+travis scott,pop,0.082369531194369,1
+nipsey hussle,pop,0.08197440207004547,1
+the fall,blues,0.08030296365420024,1
+robert glasper experiment,jazz,0.08009881774584453,1
+mindless self indulgence,rock,0.07927778859933217,1
+eric clapton,blues,0.07777597506841025,2
+matisyahu,reggae,0.07752737402915955,1
+yazz,pop,0.07703312734762828,1
+new edition,pop,0.07610177993774414,1
+mad season,blues,0.074917733669281,1
+little willie john,blues,0.07471512754758199,1
+michael jackson,pop,0.0735899160305659,1
+gregory isaacs,reggae,0.07222432394822438,1
+snowy white,blues,0.07201449076334636,1
+michael franks,jazz,0.07166832437117895,2
+cyrille aimee,jazz,0.07130902012189229,1
+the white stripes,blues,0.07093733549118042,1
+the undertones,pop,0.07054136196772258,1
+etta james,blues,0.07046469549338023,1
+boogie belgique,jazz,0.06994571288426717,1
+the 1975,rock,0.06988777220249176,1
+david allan coe,country,0.06923698882261912,1
+cartel,pop,0.06907560924688975,1
+meshuggah,jazz,0.06893427173296611,1
+christafari,reggae,0.06856956581274669,1
+rancid,pop,0.06827551623185475,1
+j.j. cale,blues,0.06819075345993042,1
+dr. john,blues,0.0678998331228892,1
+eric b. & rakim,hip hop,0.06664133071899414,1
+randy travis,country,0.06356977919737498,1
+winger,rock,0.06318021317323048,1
+the movement,reggae,0.06255438923835754,1
+ray price,country,0.061830068627993263,1
+ramones,rock,0.060933118065198265,1
+pat green,country,0.06045449276765188,1
+the felice brothers,country,0.06031578779220581,1
+pete josef,jazz,0.06003326177597046,1
+maxwell,pop,0.05973896384239197,1
+stone sour,rock,0.05961833894252777,1
+etana,reggae,0.059459914763768516,1
+albert collins,blues,0.05942736814419429,2
+dean martin,jazz,0.059072621166706085,2
+ariana grande,pop,0.05840997894605001,1
+ricky martin,pop,0.05787460505962372,1
+johnny clarke,reggae,0.057482058803240456,1
+thin lizzy,blues,0.057340845465660095,1
+queens of the stone age,blues,0.05724001427491506,1
+bad company,blues,0.05720387895901998,1
+tesla,rock,0.05682941277821858,2
+don gibson,country,0.05465132246414821,2
+the offspring,pop,0.054207801818847656,1
+deap vally,blues,0.05299810071786245,1
+foreigner,rock,0.05253298580646515,2
+radiohead,rock,0.05200056731700897,1
+loretta lynn,country,0.05194900929927826,1
+heart,pop,0.051692659656206764,1
+nuyorican soul,jazz,0.051432510217030845,1
+captain beyond,blues,0.051315064231554665,1
+bushman,reggae,0.05125461518764496,1
+shakira,pop,0.05122573177019755,1
+august greene,jazz,0.050966824094454445,1
+judy garland,jazz,0.05068255960941315,2
+jimmy cliff,reggae,0.05058282117048899,1
+joe bonamassa,blues,0.050413010021050766,2
+linda ronstadt,country,0.04954733947912852,1
+vic mensa,hip hop,0.049469182888666786,1
+deftones,rock,0.04929252962271372,1
+all them witches,blues,0.049226418137550354,1
+stick figure,reggae,0.049141829212506614,1
+beck,pop,0.04909412066141764,1
+bonnie raitt,blues,0.04892141620318095,1
+social distortion,pop,0.0487633893887202,2
+zona ganjah,reggae,0.04863409698009491,1
+fiona apple,pop,0.04842108488082886,1
+singers and players,reggae,0.04788126548131307,1
+otherwise,rock,0.0468951811393102,1
+yaz,pop,0.04595568776130676,1
+august alsina,pop,0.04539133111635844,1
+acoustic alchemy,jazz,0.04502570629119873,1
+the spits,blues,0.044912333289782204,1
+the downtown fiction,pop,0.04466365774472555,1
+the turtles,pop,0.04457161823908488,1
+julian dash,jazz,0.044131810466448464,1
+sarah vaughan,jazz,0.04376183946927389,1
+billy joel,rock,0.043761094411214195,1
+hank williams,country,0.04335046807924906,2
+walk the moon,pop,0.04317003985246023,1
+john lee hooker,blues,0.04313433915376663,2
+lester flatt,country,0.04298090189695358,2
+wipers,blues,0.042843381563822426,1
+the beach boys,pop,0.0414010485013326,1
+fruit bats,pop,0.04133272667725881,1
+rich the kid,pop,0.041084672013918556,1
+desmond cheese,reggae,0.04073379933834076,1
+glee cast,pop,0.03980441391468048,1
+manowar,rock,0.03974612553914388,1
+connie francis,pop,0.03940891226132711,1
+shrub,reggae,0.03922612468401591,1
+elvis presley,rock,0.03880537798007329,2
+doris day,jazz,0.03875922163327535,1
+frank ocean,pop,0.03812644382317861,1
+george strait,country,0.038052866856257125,3
+beyoncé,pop,0.03790148595968882,1
+lee brice,country,0.03771157066027323,1
+al jarreau,jazz,0.037674007316430405,2
+swimming tapes,rock,0.03731139997641245,1
+tedeschi trucks band,blues,0.03689141074816386,1
+patty loveless,country,0.036705916126569114,1
+the cinematic orchestra,jazz,0.0365881472826004,1
+željko bebek,pop,0.03658787409464518,1
+lata mangeshkar,pop,0.03658571342627207,1
+sheryl crow,pop,0.03632077078024546,1
+grouplove,pop,0.0354123463233312,1
+whitney houston,pop,0.035394445061683655,3
+terry callier,jazz,0.035334810614585876,1
+terror squad,hip hop,0.03513426582018534,1
+of montreal,pop,0.03464225431283315,1
+the byrds,pop,0.034328783551851906,1
+crowded house,pop,0.03421220680077871,1
+shovels & rope,blues,0.033946526547273,2
+robben ford,blues,0.03392280141512553,1
+avril lavigne,pop,0.033879563212394714,2
+carly simon,pop,0.03274036943912506,1
+mötley crüe,rock,0.03229713439941406,1
+henry paul band,rock,0.03205993274847666,1
+television,pop,0.031184812386830647,1
+don drummond,reggae,0.031143610676129658,1
+the black crowes,blues,0.030693123737970986,1
+shy glizzy,pop,0.03005346655845642,1
+misfits,rock,0.029942179719607033,1
+chick corea,jazz,0.0297995259364446,1
+dolly parton,country,0.02929888831244575,3
+brian hyland,pop,0.029249027371406555,1
+dave brubeck,jazz,0.029234349727630615,1
+stevie nicks,rock,0.029190614819526672,2
+john denver,rock,0.02870267629623413,1
+the wailers,reggae,0.028133427103360493,1
+jason aldean,country,0.02698750297228495,1
+bob dylan,pop,0.026816730697949726,2
+lady saw,reggae,0.02679068346818288,1
+phosphorescent,country,0.026705051461855568,1
+johnny paycheck,country,0.026586016019185383,1
+jim reeves,country,0.026579161485036213,1
+between the buried and me,jazz,0.026354352633158364,4
+waylon jennings,country,0.02632464468479157,6
+relient k,rock,0.026272818446159363,1
+scuzz twittly,country,0.025781750679016113,1
+gregg allman,blues,0.025736923019091286,2
+roger miller,country,0.025046179691950478,1
+live,pop,0.025011981527010597,1
+william basinski,jazz,0.02470804750919342,1
+chris smither,country,0.024262552460034687,1
+the paul butterfield blues band,blues,0.023825923601786293,1
+tim mcgraw,country,0.02382481098175049,3
+mujo,jazz,0.023756409684816994,1
+montgomery gentry,country,0.023209810256958008,1
+andy grammer,pop,0.023080194989840187,1
+angels & airwaves,pop,0.02285372217496236,1
+phish,blues,0.022604376077651978,1
+kate bush,pop,0.022088045875231426,2
+dave matthews band,pop,0.021854723493258156,1
+ministry,rock,0.02178540825843811,1
+otis rush,blues,0.02106670041879018,1
+audiodub,reggae,0.02079150080680847,1
+ella fitzgerald,blues,0.020425846179326374,5
+jr. walker & the all stars,pop,0.02022428810596466,1
+shania twain,pop,0.02003223697344462,1
+hollywood undead,rock,0.019770647088686623,1
+emmylou harris,country,0.0193520983060201,1
+willie nelson,country,0.019170143951972324,4
+louis armstrong,jazz,0.019128153721491497,2
+old crow medicine show,country,0.01910935839017232,1
+my chemical romance,pop,0.018817717830340065,1
+the avett brothers,country,0.018722896774609882,1
+thriller u,reggae,0.01866927742958069,1
+starset,rock,0.018190974990526833,1
+david lee roth,rock,0.018168821930885315,1
+onerepublic,pop,0.0177193284034729,1
+supaman,hip hop,0.01757282515366872,1
+ashford & simpson,jazz,0.017130881547927856,1
+bodyjar,rock,0.017003551125526428,1
+the roots,hip hop,0.016259461641311646,1
+simple minds,pop,0.016236340006192524,1
+the platters,pop,0.016134999692440033,2
+sammy kershaw,country,0.01572840909163157,1
+ed sheeran,pop,0.01539775232474009,1
+badfinger,blues,0.014800637960433958,1
+the buckinghams,pop,0.01473159591356913,1
+milky chance,pop,0.0146811306476593,1
+cross canadian ragweed,country,0.014423886934916176,1
+skalpel,jazz,0.013498723506927488,1
+50 cent,pop,0.013288691639900206,1
+cyndi lauper,pop,0.013185749451319374,1
+berlin,pop,0.012620250384012856,1
+bad suns,rock,0.011907850702603657,1
+passafire,reggae,0.011752977967262266,1
+little river band,country,0.011371607581774391,1
+the fleetwoods,blues,0.011078054706255593,1
+ray campi,rock,0.010894944270451862,1
+staind,rock,0.010397791862487791,1
+beth hart,blues,0.010388982792695362,2
+little eva,pop,0.010288193821907042,1
+tammy wynette,country,0.010174572467803953,1
+cage the elephant,blues,0.010074436664581297,1
+quincy jones,jazz,0.010054469108581541,1
+breakestra,jazz,0.008860761920611061,1
+breaking benjamin,pop,0.008302795390288034,2
+carly rae jepsen,pop,0.008223513762156166,1
+the ready set,pop,0.008171906073888142,1
+the heavy,blues,0.008139694730440773,1
+banes world,pop,0.008070950706799824,1
+widespread panic,blues,0.007943342129389444,2
+queen,rock,0.007689121696684095,3
+josé josé,pop,0.007464870810508726,1
+e-40,hip hop,0.007402931650479633,1
+conway twitty,country,0.007265741626421608,1
+mike zito,blues,0.006545891364415485,1
+kip moore,country,0.006484126051266986,1
+red hot chili peppers,rock,0.0061253060897191345,1
+the stills-young band,rock,0.00607459247112274,1
+dionne warwick,rock,0.005752007166544594,1
+melody gardot,jazz,0.00569928189118703,1
+kaleo,rock,0.005671218037605284,1
+climax blues band,blues,0.005659545461336769,1
+tool,rock,0.00529302656650543,1
+iration,reggae,0.0050736318031946795,1
+mike love,reggae,0.0049985051155090315,1
+todd terry,hip hop,0.004993488391240436,1
+nai palm,jazz,0.004749928911526996,1
+foo fighters,rock,0.004721591869990029,1
+tommy bolin,blues,0.004602581262588499,1
+dead moon,blues,0.004447683691978453,1
+jack jones,jazz,0.004442493120829262,1
+kathy mattea,country,0.004404813051223754,2
+michael franti & spearhead,reggae,0.004276866714159645,1
+twenty one pilots,rock,0.00419299801190694,1
+aretha franklin,blues,0.004191036025683083,1
+"emerson, lake & palmer",jazz,0.0041270852088928205,1
+frankie laine,pop,0.004037330547968544,1
+newsboys,rock,0.003988032539685565,1
+mkto,rock,0.003943353891372679,1
+emmylou harris,pop,0.0039225667715072614,1
+falling in reverse,pop,0.0037283053000768005,1
+alexi murdoch,pop,0.0034186591704686463,1
+def leppard,rock,0.0032262106736501038,1
+dave mason,country,0.0030096719662348406,1
+the neighbourhood,rock,0.002892437080542244,2
+toby keith,country,0.0028324226538340228,1
+akon,pop,0.0026634931564331033,1
+typical cats,jazz,0.002171655495961505,1
+john conlee,country,0.0018318841854731219,1
+kenny chesney,country,0.0017526845137278216,1
+peter green,blues,0.001743495464324949,1
+tears for fears,pop,0.0012460947036743142,1
+bobby darin,jazz,0.0012044707934061663,1
+jason gray,rock,0.0009870876868565855,1
+mike pinto,reggae,0.0009059011936187721,1
+confederate railroad,country,0.0005640511711438485,2
+doug sahm,country,0.0004373838504155454,1
+jamiroquai,jazz,0.00041202704111734795,1
+damu the fudgemunk,jazz,0.00020477672417958348,1
+israel vibration,reggae,0.0,2
+jethro tull,blues,0.0,2
+yes,jazz,0.0,2
+a r i z o n a,rock,0.0,1
+aerosmith,rock,0.0,1
+al stewart,pop,0.0,1
+alan jackson,country,0.0,1
+ambrosia,country,0.0,1
+amerie,pop,0.0,1
+andy grammer,rock,0.0,1
+baby washington,blues,0.0,1
+big daddy kane,hip hop,0.0,1
+billy bragg,country,0.0,1
+black joe lewis & the honeybears,blues,0.0,1
+"bonnie ""prince"" billy",country,0.0,1
+bullet for my valentine,pop,0.0,1
+candlebox,pop,0.0,1
+chris cornell,rock,0.0,1
+collin raye,country,0.0,1
+corey smith,country,0.0,1
+"crosby, stills & nash",country,0.0,1
+dorothy,blues,0.0,1
+faces,pop,0.0,1
+fine young cannibals,pop,0.0,1
+flamin' groovies,pop,0.0,1
+florida georgia line,country,0.0,1
+francesca battistelli,pop,0.0,1
+galactic,blues,0.0,1
+george benson,jazz,0.0,1
+george harrison,rock,0.0,1
+guru's jazzmatazz,jazz,0.0,1
+guy clark,country,0.0,1
+ice-t,hip hop,0.0,1
+jacki-o,hip hop,0.0,1
+jeff beck,blues,0.0,1
+jeff lorber,jazz,0.0,1
+jefferson airplane,blues,0.0,1
+john brown's body,reggae,0.0,1
+john mayall & the bluesbreakers,blues,0.0,1
+john mayer,pop,0.0,1
+john michael montgomery,country,0.0,1
+johnny lee,country,0.0,1
+journey,rock,0.0,1
+joyner lucas,pop,0.0,1
+ken boothe,reggae,0.0,1
+kid ink,pop,0.0,1
+king diamond,rock,0.0,1
+kodak black,pop,0.0,1
+leann rimes,country,0.0,1
+lefty frizzell,country,0.0,1
+lil wayne,hip hop,0.0,1
+little texas,country,0.0,1
+logic,pop,0.0,1
+lonestar,country,0.0,1
+merle haggard,country,0.0,1
+mikey dread,reggae,0.0,1
+miranda lambert,country,0.0,1
+moka only,jazz,0.0,1
+molly hatchet,country,0.0,1
+mudvayne,rock,0.0,1
+murphy lee,pop,0.0,1
+my morning jacket,rock,0.0,1
+nicki minaj,pop,0.0,1
+pacific dub,reggae,0.0,1
+pete rock & c.l. smooth,jazz,0.0,1
+phil perry,jazz,0.0,1
+pj sin suela,reggae,0.0,1
+pulp,rock,0.0,1
+ray charles,blues,0.0,1
+reba mcentire,country,0.0,1
+ricky van shelton,country,0.0,1
+roxanne shante,hip hop,0.0,1
+"royce da 5'9""",hip hop,0.0,1
+seals and crofts,pop,0.0,1
+soulive,jazz,0.0,1
+stan getz,jazz,0.0,1
+styles p,hip hop,0.0,1
+sublime,reggae,0.0,1
+the boomtown rats,pop,0.0,1
+the dear hunter,jazz,0.0,1
+the gladiators,reggae,0.0,1
+the impressions,blues,0.0,1
+the mavericks,country,0.0,1
+the monkees,pop,0.0,1
+the notorious b.i.g.,pop,0.0,1
+the oh hellos,pop,0.0,1
+the ventures,rock,0.0,1
+the waterboys,pop,0.0,1
+the yardbirds,blues,0.0,1
+tommy castro,blues,0.0,1
+tony williams,jazz,0.0,1
+tori kelly,pop,0.0,1
+touré kunda,reggae,0.0,1
+tracy lawrence,country,0.0,1
+tricky,jazz,0.0,1
+têtes raides,reggae,0.0,1
+uncle kracker,country,0.0,1
+voxtrot,pop,0.0,1
+wade bowen,country,0.0,1
+wailing souls,reggae,0.0,1
+wendell b,blues,0.0,1
+yusef lateef,jazz,0.0,1
